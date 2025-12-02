@@ -32,9 +32,9 @@ def subscribe_channel(url):
 
 if __name__ == "__main__":
     CHANNELS = [
-        "https://www.youtube.com/@ataxyz",
-        "https://www.youtube.com/@AnotherChannel",
-        "https://www.youtube.com/@RandomStuff",
+            "https://www.youtube.com/@tamirsverse",
+            "https://www.youtube.com/@AsmonEnjoyer",
+            "https://www.youtube.com/@astartesanonymous",
     ]
 
     for channel in CHANNELS:
