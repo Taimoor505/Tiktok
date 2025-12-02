@@ -1,0 +1,4 @@
+winget install Gyan.FFmpeg
+winget install yt-dlp.yt-dlp
+npm i fastify fast-xml-parser dotenv
+npm i -D typescript tsx @types/node
