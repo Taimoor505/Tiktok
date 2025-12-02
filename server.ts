@@ -1,4 +1,3 @@
-// server.ts
 import "dotenv/config";
 import Fastify from "fastify";
 import { XMLParser } from "fast-xml-parser";
